@@ -1,4 +1,4 @@
-package helpers
+package compress
 
 import (
 	"bytes"
